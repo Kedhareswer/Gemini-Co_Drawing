@@ -1,4 +1,4 @@
-# Gemini Co-Drawing
+# ![Gemini-Co_Drawing](https://img.shields.io/badge/Gemini--Co_Drawing-blue?style=for-the-badge)
 
 ![npm](https://img.shields.io/npm/v/react)
 ![Vite](https://img.shields.io/badge/Built_with-Vite-646CFF?logo=vite)
