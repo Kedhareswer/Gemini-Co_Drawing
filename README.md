@@ -1,6 +1,5 @@
 # Gemini Co-Drawing
 
-[![License: Apache-2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](LICENSE)
 ![npm](https://img.shields.io/npm/v/react)
 ![Vite](https://img.shields.io/badge/Built_with-Vite-646CFF?logo=vite)
 ![TypeScript](https://img.shields.io/badge/TypeScript-Enabled-3178C6?logo=typescript)
