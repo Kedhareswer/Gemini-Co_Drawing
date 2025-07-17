@@ -108,7 +108,7 @@ graph TD;
 
 - **Built with Gemini 2.0 native image generation**
 - By [@trudypainter](https://x.com/trudypainter) and [@alexanderchen](https://x.com/alexanderchen)
-- Experimented and improved by *you*
+- Experimented and improved by *Me*
 
 ---
 
